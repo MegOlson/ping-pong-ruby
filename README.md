@@ -16,9 +16,9 @@ _This page has a form that allows the user to enter a number. After pressing the
 
 ## Specifications
 
-* Program will return error when field is submitted blank or when field is submitted with input other than a number.
+<!-- * Program will return error when field is submitted blank or when field is submitted with input other than a number.
   * Example Input: ""
-  * Example Output: "error: no input or NaN"
+  * Example Output: "error: no input or NaN" -->
 * Program will output all numbers counting up to inputted number.
   * Example Input: "5"
   * Example Output: "1, 2, 3, 4, 5"
